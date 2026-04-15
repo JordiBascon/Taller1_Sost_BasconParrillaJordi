@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa_sostenible>
+    
+    <stakeholder id="001" importancia="Alto">Clientes</stakeholder>
+    <stakeholder id="002" importancia="Alto">Desarrolladores</stakeholder>
+    <stakeholder id="003" importancia="Medio">Proveedores du Nuve</stakeholder>
+
+</empresa_sostenible>
