@@ -5,16 +5,16 @@
     <stakeholder id="002" importancia="Alto">Desarrolladores</stakeholder>
     <stakeholder id="003" importancia="Medio">Proveedores du Nuve</stakeholder>
     <tema_material categoria="Ambiental">
-    <descripcion>Ética a la hora de desechar resíduos</descripcion>
-    <nivelDeImpactoAmbiental>Alto</nivelDeImpactoAmbiental>
+        <descripcion>Ética a la hora de desechar resíduos</descripcion>
+        <nivelDeImpactoAmbiental>Alto</nivelDeImpactoAmbiental>
     </tema_material>
     <tema_material categoria="Social">
-    <descripcion>Buena comunicación con los médios y clientes</descripcion>
-    <nivelDeImpactoAmbiental>Medio</nivelDeImpactoAmbiental>
+        <descripcion>Buena comunicación con los médios y clientes</descripcion>
+        <nivelDeImpactoAmbiental>Medio</nivelDeImpactoAmbiental>
     </tema_material>
     <tema_material categoria="Gobernanza">
-    <descripcion>Transparencia al manejar datos y ética en el uso de IA</descripcion>
-    <nivelDeImpactoAmbiental>Medio</nivelDeImpactoAmbiental>
+        <descripcion>Transparencia al manejar datos y ética en el uso de IA</descripcion>
+        <nivelDeImpactoAmbiental>Medio</nivelDeImpactoAmbiental>
     </tema_material>
 
 </empresa_sostenible>
